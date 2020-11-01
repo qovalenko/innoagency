@@ -1,5 +1,5 @@
 https://shaggy-crm.web.app/ - Shaggy CRM  
-https://us-central1-shaggy-crm.cloudfunctions.net/api/graphql - GraphQL сервер для Shaggy CRM  
+https://us-central1-ineedshaggy.cloudfunctions.net/api - GraphQL сервер для Shaggy CRM  
 https://api.nubble.ru/ - REST API сервер тестовых данных  
 https://swagger.nubble.ru/ - SWAGGER для REST API  
 https://мойшерстяной.рф  - Сайт для размещения анкет животных
