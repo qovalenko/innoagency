@@ -5,7 +5,7 @@ https://swagger.nubble.ru/ - SWAGGER для REST API
 https://мойшерстяной.рф  - Сайт для размещения анкет животных
 
 Ссылка для подключения к БД (MongoDB):  
-mongodb://shaggy:fG4bArMN5AyT@cluster-ineedshaggy-shard-00-00.zsweo.mongodb.net:27017,cluster-ineedshaggy-shard-00-01.zsweo.mongodb.net:27017,cluster-ineedshaggy-shard-00-02.zsweo.mongodb.net:27017/devs?ssl=true&replicaSet=atlas-cceg4u-shard-0&authSource=admin&retryWrites=true&w=majority
+mongodb://shaggy:fG4bArMN5AyT@35.228.52.242:27017/development
 
 ### Shaggy CRM
 React ANT + ApoloJS = FirebaseApp  
