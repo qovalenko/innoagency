@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "development": "shaggy-crm",
+    "production": "shaggy-crm"
+  }
+}
